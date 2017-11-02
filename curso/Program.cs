@@ -16,6 +16,7 @@ namespace curso {
             artistas.Add(new Artista(102, "Chris Evans", 2500000.00));
             artistas.Add(new Artista(103, "Robert Downey Jr", 3000000.00));
             artistas.Add(new Artista(104, "Morgan Freeman", 4000000.00));
+            artistas.Add(new Artista(104, "Eder Laurindo", 4000000.00));
             artistas.Sort();
 
             while (opcao != 5) {
